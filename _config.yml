@@ -6,3 +6,11 @@ url: https://wesleyhitson.github.io/class11
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+collections:
+  electronics:
+    sort_by: order
+    output: true
+  teardown:
+    sort_by: order
+    output: true
