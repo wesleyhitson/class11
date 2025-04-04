@@ -1,6 +1,6 @@
 ---
 title: Lights
-parent: electronics
+parent: Electronics
 nav_order: 1
 ---
 Lights.

@@ -1,6 +1,6 @@
 ---
 title: Fuel System
-parent: build
+parent: Build
 nav_order: 2
 ---
 Gas.
